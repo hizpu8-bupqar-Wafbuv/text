@@ -1,9 +1,9 @@
 img{
     position: absolute;
-    height: 135px;
-    width: 297px;
-    right: 544px;
-    top: 582px;
+    height: 200px;
+    width: 300px;
+    right: 700px;
+    top: 800px;
 }
     
 .text{
@@ -11,4 +11,17 @@ img{
 }
 .nour{
     color: aquamarine;
+}
+.Tina{
+    background-color: beige;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+.Tina h4{
+    color: rgb(207, 135, 34);
+}
+myimg{
+    width: 300px;
+    right: 700px;
 }
